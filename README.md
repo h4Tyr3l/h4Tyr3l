@@ -1,5 +1,5 @@
 # Hello there! I'm Zappa 👋
-### | Cybersecurity | Pentesting | Web Developement | Enthusiast
+### Enthusiast in the following areas: | Cybersecurity | Pentesting | Web Developement |
 
 Hi! I am Francisco Zappa. I'm 22 years old. I consider myself a person with good performance in team and individual work, responsible, organized and fully committed. 
 
