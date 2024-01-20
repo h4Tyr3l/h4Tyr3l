@@ -1,9 +1,11 @@
 # Hello there! I'm Zappa 👋
 ### Enthusiast in the following areas: | Cybersecurity | Pentesting | Web Developement |
 
-Hi! I am Francisco Zappa. I'm 22 years old. I consider myself a person with good performance in team and individual work, responsible, organized and fully committed. 
+🧔🏻 Characterized by a strong sense of responsibility, continuous improvement, and unwavering commitment, I describe myself as someone who consistently performs well in both team and individual capacities.
 
-I am currently developing myself in the Information Technology field, studying computer engineering at UADE and a variety of training courses focusing on Cloud and cybersecurity services.
+At the moment, I am immersed in the Information Technology field, pursuing a degree in Computer Engineering at Universidad Argentina de la Empresa. 📖
+
+Additionally, I am actively engaged in a diverse range of training courses and projects centered around Cloud ☁️, Cybersecurity 🔐, Full-Stack Web Development 🌐, Graphic Design 🎨 and Photography 📸contributing to my ongoing professional development. 💡
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/h4tyr3l?style=social)](https://twitter.com/h4tyr3l)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkcUQnD5yU8lOTR-akyG95g)](https://www.youtube.com/channel/UCkcUQnD5yU8lOTR-akyG95g?sub_confirmation=1)
