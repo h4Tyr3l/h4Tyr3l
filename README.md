@@ -1,4 +1,6 @@
 # Hello there! I'm Zeke Zappa 👋
+
+### Slow but disciplined learner 🐢
 ### Enthusiast in the following areas: | Performance Testing | Cybersecurity | Full Stack Developement |
 
 🧔🏻 Characterized by a strong sense of responsibility, continuous improvement, and unwavering commitment, I describe myself as someone who consistently performs well in both team and individual capacities.
