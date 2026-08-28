@@ -61,7 +61,11 @@ Additionally, I am actively engaged in a diverse range of training courses and p
 
 ## 🎯 Projects:
 
-Alveo
+### 🌿 Alveo — a private, local-first therapy companion
+
+Mood check-ins, journal, session notes, breathing exercises — no account, no cloud, all on-device.
+
+**[Live demo](https://iezappa.github.io/alveoapp/)** · **[Code](https://github.com/iezappa/alveoapp)**
 
 <!---
 h4tyr3l is a special repository ✨ 
